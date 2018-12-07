@@ -78,6 +78,11 @@
       <version>7.1.1</version>
     </dependency>
     <dependency>
+      <groupId>org.example.talendintegration.job</groupId>
+      <artifactId>XML_to_Json_Trial</artifactId>
+      <version>0.1.0</version>
+    </dependency>
+    <dependency>
       <groupId>org.example.talendintegration.joblet</groupId>
       <artifactId>Joblet_tJava</artifactId>
       <version>0.1.0</version>
